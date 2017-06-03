@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i');
+.body{
+  font-family:"Josefin Sans", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: grey;
+}
+li {
+    float: left;
+}
+li a {
+    font-family:"Josefin Sans", sans-serif;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: silver;
+}
+
+.header {
+  background: url(http://gdurl.com/ZJaK) center;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  width:100%;
+  padding:20% 10% 15% 15%;
+  text-shadow:0 2px 3px rgba(0,0,0,0.2)
+}
+.header h1{
+  font-size:3.5em;
+  font-style:bold;
+}
+
+.about{
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  padding:10% 10% 10% 10%;
+}
+.text{
+  padding:8% 10% 0% 10%;
+}
+img.profile{
+  object-fit: cover;
+  width:230px;
+  height:230px;
+}
+img.block{
+  object-fit: cover;
+  width:250px;
+  height:180px;
+}
+.portfolio{
+  background: url(http://gdurl.com/jvlQ) center;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  padding:5% 10% 5% 10%;
+}
+
+.contact{
+  background: url(http://gdurl.com/P8K4) center;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  padding:5% 10% 5% 10%;
+}
