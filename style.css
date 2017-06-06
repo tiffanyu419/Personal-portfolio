@@ -45,6 +45,9 @@ li a:hover {
 .text{
   padding:10% 25% 0% 25%;
 }
+.text h3{
+  font-size:0.8em;
+}
 img.profile{
   object-fit: cover;
   width:250px;
