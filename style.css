@@ -37,7 +37,11 @@ li a:hover {
   font-size:3.5em;
   font-style:bold;
 }
-
+.diagram{
+  text-align: center;
+  font-family:"Josefin Sans", sans-serif;
+  padding: 5% 0% 0% 0%;
+}
 .about{
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
