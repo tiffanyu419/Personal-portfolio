@@ -47,8 +47,8 @@ li a:hover {
 }
 img.profile{
   object-fit: cover;
-  width:230px;
-  height:230px;
+  width:250px;
+  height:250px;
 }
 img.block{
   object-fit: cover;
