@@ -42,11 +42,14 @@ li a:hover {
   font-family: "Josefin Sans", sans-serif;
   padding:10% 10% 10% 10%;
 }
+.about-text{
+  padding:3% 20% 0 20%;
+}
 .text{
   padding:5% 20% 0% 20%;
 }
-.text h3{
-  font-size:3.5em;
+.about-text h3{
+  font-size:3.2em;
 }
 img.profile{
   object-fit: cover;
