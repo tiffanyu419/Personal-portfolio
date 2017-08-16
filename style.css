@@ -34,32 +34,34 @@ li a:hover {
   text-shadow:0 2px 3px rgba(0,0,0,0.2)
 }
 .header h1{
-  font-size:5em;
+  font-size:3.5em;
   font-style:bold;
 }
+
 .about{
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
   padding:10% 10% 10% 10%;
 }
-.about-text{
-  padding:5% 23% 0 23%;
-}
 .text{
-  padding:5% 20% 0% 20%;
-}
-.about-text h3{
-  font-size:3.2em;
+  padding:5% 15% 0% 15%;
 }
 img.profile{
   object-fit: cover;
-  width:250px;
-  height:250px;
+  width:230px;
+  height:230px;
 }
 img.block{
   object-fit: cover;
   width:250px;
   height:180px;
+  padding: 0% 0% 0% 2%;
+}
+img.block2{
+  object-fit: cover;
+  width:25%;
+  height:100%;
+  padding: 0% 0% 0% 2%;
 }
 .portfolio{
   background: url(http://gdurl.com/jvlQ) center;
@@ -67,10 +69,26 @@ img.block{
   font-family: "Josefin Sans", sans-serif;
   padding:5% 10% 5% 10%;
 }
-
+.leadership{
+  background: url(http://gdurl.com/jvlQ) center;
+  text-align: center;
+  font-family: "Josefin Sans", sans-serif;
+  padding:5% 10% 5% 10%;
+}
+.projects{
+  padding:2% 10% 2% 10%;
+}
 .contact{
   background: url(http://gdurl.com/P8K4) center;
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
   padding:5% 10% 5% 10%;
+}
+#icon-tag {
+  text-decoration: none;
+  color: black;
+  padding:0% 3% 0% 3%;
+}
+#icon-tag:hover {
+  color: rgba(0, 0, 0, 0.5);
 }
