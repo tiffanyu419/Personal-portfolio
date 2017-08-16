@@ -3,6 +3,9 @@
   font-family:"Josefin Sans", sans-serif;
 }
 
+.nav-bar {
+  background:grey;
+}
 ul {
     list-style-type: none;
     margin: 0;
