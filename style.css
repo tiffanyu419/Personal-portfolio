@@ -33,10 +33,13 @@ li a:hover {
   background: url(http://gdurl.com/ZJaK) center;
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
+}
+
+.headerTxt{
   padding:20% 10% 15% 15%;
   text-shadow:0 2px 3px rgba(0,0,0,0.2)
 }
-.header h1{
+.headerTxt h1{
   font-size:3.5em;
   font-style:bold;
 }
